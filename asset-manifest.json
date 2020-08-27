@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Real-Madrid/static/css/main.b35b089b.chunk.css",
+    "main.js": "/Real-Madrid/static/js/main.224db073.chunk.js",
+    "main.js.map": "/Real-Madrid/static/js/main.224db073.chunk.js.map",
+    "runtime-main.js": "/Real-Madrid/static/js/runtime-main.98ab2408.js",
+    "runtime-main.js.map": "/Real-Madrid/static/js/runtime-main.98ab2408.js.map",
+    "static/js/2.1440c2b1.chunk.js": "/Real-Madrid/static/js/2.1440c2b1.chunk.js",
+    "static/js/2.1440c2b1.chunk.js.map": "/Real-Madrid/static/js/2.1440c2b1.chunk.js.map",
+    "index.html": "/Real-Madrid/index.html",
+    "precache-manifest.62f3edc6baa98eaddfb301aef0ddaa8b.js": "/Real-Madrid/precache-manifest.62f3edc6baa98eaddfb301aef0ddaa8b.js",
+    "service-worker.js": "/Real-Madrid/service-worker.js",
+    "static/css/main.b35b089b.chunk.css.map": "/Real-Madrid/static/css/main.b35b089b.chunk.css.map",
+    "static/js/2.1440c2b1.chunk.js.LICENSE.txt": "/Real-Madrid/static/js/2.1440c2b1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98ab2408.js",
+    "static/js/2.1440c2b1.chunk.js",
+    "static/css/main.b35b089b.chunk.css",
+    "static/js/main.224db073.chunk.js"
+  ]
+}

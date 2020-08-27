@@ -1,0 +1,80 @@
+[ 
+    {
+        "kit": 4,
+        "name": "Sergio Ramos",
+        "nationality": "Spain",
+        "position": "Centre Back"
+    },
+    {
+        "kit": 5,
+        "name": "Raphael Varane",
+        "nationality": "France",
+        "position": "Centre Back"
+    },
+    {
+        "kit": 12,
+        "name": "Marcelo",
+        "nationality": "Brazil",
+        "position": "Left Back"
+    },
+    {
+        "kit": 2,
+        "name": "Daniel Carvajal",
+        "nationality": "Spain",
+        "position": "Right Back"
+    },
+    {
+        "kit": 1,
+        "name": "Thibaut Courtois",
+        "nationality": "Belgium",
+        "position": "Goalkeeper"
+    },
+    {
+        "kit": 8,
+        "name": "Toni Kroos",
+        "nationality": "Germany",
+        "position": "Midfielder"
+    },
+    {
+        "kit": 10,
+        "name": "Luka Modric",
+        "nationality": "Croatia",
+        "position": "Midfielder"
+    },
+    {
+        "kit": 14,
+        "name": "Casemiro",
+        "nationality": "Brazil",
+        "position": "Midfielder"
+    },
+    {
+        "kit": 22,
+        "name": "Isco",
+        "nationality": "Spain",
+        "position": "Midfielder"
+    },
+    {
+        "kit": 7,
+        "name": "Eden Hazard",
+        "nationality": "Belgium",
+        "position": "Forward"
+    },
+    {
+        "kit": 20,
+        "name": "Marco Asensio",
+        "nationality": "Spain",
+        "position": "Forward"
+    },
+    {
+        "kit": 11,
+        "name": "Gareth Bale",
+        "nationality": "Wales",
+        "position": "Forward"
+    },
+    {
+        "kit": 9,
+        "name": "Karim Benzema",
+        "nationality": "France",
+        "position": "Forward"
+    }
+]
